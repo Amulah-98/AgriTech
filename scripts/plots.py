@@ -14,20 +14,20 @@ from shapely.geometry import Point, Polygon
 from logger import Logger
 
     
-    def plot_dem_contours(self) -> None:
+def plot_dem_contours(self) -> None:
         """
         Plots DEM with its contours
         """
 
         src = rasterio.open(str(self.data_dir / f"{self.region}.tif"))
-
+        
         fig, ax = plt.subplots(1, figsize=(20, 10))
         show((src), cmap="Greys_r", ax=ax)
         show((src), contour=True, linewidths=0.7, ax=ax)
 
         plt.show()
 
-    def plot_2D(self) -> None:
+def plot_2D(self) -> None:
         """
         Plots side by side of DEM and histogram.
         """
@@ -48,7 +48,7 @@ from logger import Logger
 
         plt.show()
 
-    def plot_heatmap(self, year: str, data_dict: dict) -> None:
+def plot_heatmap(self, year: str, data_dict: dict) -> None:
         """
         Plots a heatmap view of a terrain
         Parameters
@@ -69,7 +69,7 @@ from logger import Logger
         plt.ylabel("Latitude")
         plt.show()
 
-    def plot_3D(self, year: str, data_dict: dict) -> None:
+def plot_3D(self, year: str, data_dict: dict) -> None:
         """
         Plots a 3D view of a terrain
         Parameters
