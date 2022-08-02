@@ -4,11 +4,11 @@
 <a href="https://github.com/Amulah-98/AgriTech/pulls"><img src="https://img.shields.io/github/issues-pr/Amulah-98/AgriTech" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Amulah-98/AgriTech/issues"><img src="https://img.shields.io/github/issues/Amulah-98/AgriTech" alt="Issues Badge"/></a>
 <a href="https://github.com/Amulah-98/AgriTech/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Amulah-98/AgriTech?color=2b9348"></a>
-<a href="https://github.com/Amulah-98/AgriTech/blob/main/LICENSE"><img src="https://img.shields.io/github/license/Amulah-98/AgriTech?color=2b9348" alt="License Badge"/></a>
 </div>
 
 </br>
-
+![image](https://user-images.githubusercontent.com/55177259/182439180-2a580301-9a97-4622-8e39-79372aeb2f04.png)
+<br>
 ## Table of Contents
 
 - [Introduction](##Introduction)
