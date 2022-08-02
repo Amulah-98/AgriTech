@@ -7,8 +7,7 @@
 </div>
 
 </br>
-![image](https://user-images.githubusercontent.com/55177259/182439180-2a580301-9a97-4622-8e39-79372aeb2f04.png)
-<br>
+
 ## Table of Contents
 
 - [Introduction](##Introduction)
